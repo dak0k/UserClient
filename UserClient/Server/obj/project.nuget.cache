@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LbbSc+0NvRIw5atZ0qhAqv0uKv+hoK0ZzFBmeOW98+H/il8+ukmqGJrYR8C1vpVdgqu6zSoUxMpQjnnx6BCPXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adaib\\OneDrive\\Документы\\Github\\CSharp-Study\\UserClient\\UserClient\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adaib\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

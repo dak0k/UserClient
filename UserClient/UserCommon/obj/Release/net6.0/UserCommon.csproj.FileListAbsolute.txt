@@ -1,0 +1,12 @@
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserCommon\bin\Release\net6.0\UserCommon.deps.json
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserCommon\bin\Release\net6.0\UserCommon.dll
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserCommon\bin\Release\net6.0\UserCommon.pdb
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserCommon\obj\Release\net6.0\UserCommon.csproj.AssemblyReference.cache
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserCommon\obj\Release\net6.0\UserCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserCommon\obj\Release\net6.0\UserCommon.AssemblyInfoInputs.cache
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserCommon\obj\Release\net6.0\UserCommon.AssemblyInfo.cs
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserCommon\obj\Release\net6.0\UserCommon.csproj.CoreCompileInputs.cache
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserCommon\obj\Release\net6.0\UserCommon.dll
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserCommon\obj\Release\net6.0\refint\UserCommon.dll
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserCommon\obj\Release\net6.0\UserCommon.pdb
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserCommon\obj\Release\net6.0\ref\UserCommon.dll

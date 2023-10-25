@@ -1,0 +1,15 @@
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserConsoleClient\bin\Release\net6.0\publish\UserClient.exe
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserConsoleClient\bin\Release\net6.0\publish\UserConsoleClient.exe
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserConsoleClient\bin\Release\net6.0\publish\UserClient.deps.json
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserConsoleClient\bin\Release\net6.0\publish\UserClient.runtimeconfig.json
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserConsoleClient\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserConsoleClient\bin\Release\net6.0\publish\appsettings.json
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserConsoleClient\bin\Release\net6.0\publish\UserConsoleClient.dll
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserConsoleClient\bin\Release\net6.0\publish\UserConsoleClient.deps.json
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserConsoleClient\bin\Release\net6.0\publish\UserConsoleClient.runtimeconfig.json
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserConsoleClient\bin\Release\net6.0\publish\UserConsoleClient.pdb
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserConsoleClient\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserConsoleClient\bin\Release\net6.0\publish\UserClient.dll
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserConsoleClient\bin\Release\net6.0\publish\UserCommon.dll
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserConsoleClient\bin\Release\net6.0\publish\UserClient.pdb
+C:\Users\adaib\OneDrive\Документы\Github\CSharp-Study\UserClient\UserClient\UserConsoleClient\bin\Release\net6.0\publish\UserCommon.pdb
